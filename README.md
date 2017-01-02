@@ -16,7 +16,9 @@ This repo is a demo of how to combine DotVVM with existing ASP.NET Web Forms app
 as a first one in the `<ProjectTypeGuids>` element.
 It should look like this:
 
-```<ProjectTypeGuids>{94EE71E2-EE2A-480B-8704-AF46D2E58D94};{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>```
+```
+<ProjectTypeGuids>{94EE71E2-EE2A-480B-8704-AF46D2E58D94};{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+```
 
 5. Make sure you have told the IIS to run all managed modules for all HTTP requests in the `web.config`:
 
