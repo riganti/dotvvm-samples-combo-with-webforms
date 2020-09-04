@@ -1,8 +1,10 @@
+> This repo has been replaced with the [Modernizing ASP.NET Web Forms Apps](https://github.com/riganti/dotvvm-samples-webforms-migration) sample.
+
+
+
 # DotVVM + ASP.NET Web Forms in one application
 
 This repo is a demo of how to combine [DotVVM](https://github.com/riganti/dotvvm) with existing ASP.NET Web Forms application.
-
-
 
 ## Steps Required to Add DotVVM in Existing Web Forms App
 
